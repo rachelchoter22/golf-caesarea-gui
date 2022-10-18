@@ -4,10 +4,10 @@ body {
 	font-family: 'Assistant', Arial, Helvetica, sans-serif;
 }
 .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11 {
-	float:right !important;
+	/* float:right !important; */
 }
 .pull-opp-dir {
-	float:left;
+	float:revert;
 }
 .pull-dir {
 	float:right;
@@ -20,7 +20,6 @@ body {
 }
 .flag_box {
 	float:left;
-	padding-left:20px;
 }
 .select_lang {
 	float:left;
@@ -59,11 +58,12 @@ body {
 
 .login_title {
 	text-align: right;
-	margin-right:15px;
+	/* margin-right:15px; */
 }
 
 .navbar, .navbar-fixed-top, .navbar-inverse, .navbar-custom, .navbar-header {
 	text-align:right;
+	width: 85%;
 }
 .Ident {
 
@@ -109,9 +109,9 @@ div#SUBMIT .btn {
     float: left !important;
 }
     
-.navbar-header {
+/* .navbar-header {
     float: right !important;
-}  
+}   */
     
 .navbar-nav>li {
     float: right;
@@ -120,6 +120,7 @@ div#SUBMIT .btn {
 
 .navbar-brand {
     float:right;
+	width: 30%;
 }
 
 

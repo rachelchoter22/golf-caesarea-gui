@@ -1,0 +1,51 @@
+{
+    "welcome": "  ברוך הבא ל oneView",
+    "Newto": "חדש ב  ? ",
+    "CreateAnAccount": "צור חשבון ",
+    "RemeberThisDevice": "זכור אותי",
+    "ForgotPassword": "שכחת סיסמא",
+    "SignIn": "התחבר",
+    "Password":"סיסמא",
+    "UserName":"שם משתמש",
+    "language":"אנגלית",
+    "align":"right",
+    "enterEmail":"אנא הזן את כתובת הדואל המשויכת לחשבון שלך ואנו נשלח לך דואל או קישור לאיפוס הסיסמה שלך",
+    "restPassword":"שלחו לי סיסמא חדשה",
+    "BackToLogin":"חזרה לדף התחברות",
+    "email":"כתובת דואל",
+    "EnterUsarname":"הכנס שם משתמש",
+    "ValidUsarname":"הכנס שם משתמש חוקי",
+    "RequiredUsarname":"נדרש שם משתמש",
+    "EnterPassword":"הכנס סיסמא",
+    "ValidPassword":"הסיסמה צריכה להיות באורך של לפחות",
+    "ValidUsername":"שם המשתמש צריך להיות באורך של לפחות",
+
+    "Char":"תווים",
+    "RequiredPassword":"נדרש סיסמא",
+    "MinCharPassword":8,
+    "MinCharUsarname":5,
+
+    "ResrtPassword":"קישור לאיפוס סיסמה נשלח בהצלחה",
+    "backLogin ":"חזרה לדף התחברות",
+    "PasswordErrorText":"שם משתמש או סיסמא אינם תקינים",
+    "OldPassword":"סיסמא ישנה",
+    "NewPassword":"סיסמא חדשה",
+    "ConfirmPassword":"אימות סיסמא",
+    "ResetPassword":"עדכון סיסמא",
+    "ConfirmPasswordEqual":"הסיסמה שלך איננה מתאימה, אנא נסה שנית",
+
+
+    "tabTitleMain":"ראשי",
+    "errorMessage":"לא נמצאה משימה כזאת",
+    "enterNameSearch":"הכנס שם תעודה / משימה",
+    "buttonSearch":"חפש ומצא...",
+    "buttonSearchError":"נסה שוב...",
+    "userInformation":"מידע למשתמש",
+    "logout":"יציאה",
+    "hi":"שלום",
+    "fullList":"רשימה מלאה",
+    "":""
+
+
+
+}
