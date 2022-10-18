@@ -61,7 +61,7 @@ body {
 
 .TopDashboard {
   background-image: url(../images/dashboard-top-1170.jpg);
-  background-position:center;
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   /* width: 100%; */
@@ -164,14 +164,13 @@ a:hover {
   text-align: center;
   /* padding-top: 150px; */
 }
-.jumbotron-row{
+.jumbotron-row {
   display: flex;
   justify-content: center;
   margin: 8px;
   padding: 16px;
   min-height: 300px;
 }
-
 
 .rss_title {
   color: #333333;
@@ -220,17 +219,15 @@ a:hover {
   text-align: right;
   padding: 16px;
   width: 35%;
-
 }
-.player_box{
+.player_box {
   display: flex;
-
 }
-.footer{
+.footer {
   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
 
 .FooterBottom {
@@ -241,7 +238,7 @@ a:hover {
   margin: auto;
   width: 60%;
 }
-.footer-bg img{
+.footer-bg img {
   width: 60%;
 }
 
@@ -277,7 +274,7 @@ a:hover {
   background-image: none;
   text-align: left;
 }
-.navbar-flex{
+.navbar-flex {
   display: flex;
   justify-content: space-between;
 }
@@ -551,15 +548,15 @@ div#remove_golfer_btn .btn-sm {
   margin-bottom: 10px;
 }
 .user_name input {
- width: 100%; 
- border-radius:2px;
- border: 1px solid rgb(173, 171, 171);
+  width: 100%;
+  border-radius: 2px;
+  border: 1px solid rgb(173, 171, 171);
 }
 
 .textField {
   font-size: 45px;
 }
-.textFieldL{
+.textFieldL {
   font-size: 16px;
 }
 
@@ -568,10 +565,10 @@ div#remove_golfer_btn .btn-sm {
   font-size: 16px;
 }
 .user_password input {
-  width: 100%; 
-  border-radius:2px;
+  width: 100%;
+  border-radius: 2px;
   border: 1px solid rgb(173, 171, 171);
- }
+}
 
 .forgot_pass a {
   color: #228c3d;
@@ -661,7 +658,7 @@ div#remove_golfer_btn .btn-sm {
 .login {
   background-image: url(../images/bg-login.jpg);
   background-color: #cccccc;
-  font-family: 'FbGofanSansRegular';
+  font-family: "FbGofanSansRegular";
   background-color: white;
   background-blend-mode: multiply;
   /* background-position: center; */
@@ -1096,7 +1093,7 @@ div#SUBMIT .btn {
   margin-top: 5px;
 }
 
-*/ .refresh-icon {
+.refresh-icon {
   background-image: url(../images/refresh-icon.png);
   background-repeat: no-repeat;
   width: 20px;
@@ -1289,7 +1286,7 @@ a:hover .month-select {
 .loginicon:hover {
   color: white;
 }
-.login_flex{
+.login_flex {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1338,7 +1335,8 @@ label {
   color: red;
 }
 
-.forget-password label, .change-password label {
+.forget-password label,
+.change-password label {
   text-align: right;
   display: block;
   color: black;
@@ -1347,11 +1345,12 @@ label {
 .change-password p {
   color: black;
 }
-.forget-password input, .change-password input {
+.forget-password input,
+.change-password input {
   height: 1.5rem;
 }
 
-.link-to-feedback{
+.link-to-feedback {
   cursor: pointer;
   color: white;
 }

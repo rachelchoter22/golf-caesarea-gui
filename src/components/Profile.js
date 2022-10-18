@@ -1,9 +1,9 @@
 
 // import player from '../images/player.jpg'
 
-// import '../css/golf-rtl.css'
-// import '../css/golfstyle.css'
-// import '../css/reset.css'
+// import '../css/golf-rtl.scss'
+// import '../css/golfstyle.scss'
+// import '../css/reset.scss'
 
 // export default function Profile() {
 
@@ -20,10 +20,10 @@
 //             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
 //             {/* <!-- Optional theme --> */}
 //             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
-//             <link rel="stylesheet" type="text/css" href="../css/reset.css" />
+//             <link rel="stylesheet" type="text/css" href="../css/reset.scss" />
 //             {/* <!-- Latest compiled and minified CSS --> */}
-//             <link rel="stylesheet" type="text/css" href="../css/golfstyle.css" />
-//             <link rel="stylesheet" type="text/css" href="../css/golf-rtl.css" />
+//             <link rel="stylesheet" type="text/css" href="../css/golfstyle.scss" />
+//             <link rel="stylesheet" type="text/css" href="../css/golf-rtl.scss" />
 //             <link href="https://fonts.googleapis.com/css?family=Assistant" rel="stylesheet" />
 //             <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
 //             {/* <!-- Latest compiled and minified JavaScript --> */}

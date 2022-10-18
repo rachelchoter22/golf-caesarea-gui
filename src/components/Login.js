@@ -15,9 +15,9 @@ import one1logo from "../images/one1-logo.png";
 import teeTimeLogo from "../images/tee-time-logo.png";
 
 //css
-// import "../css/golf-rtl.css";
-// import "../css/golfstyle.css";
-// import "../css/reset.css";
+// import "../css/golf-rtl.scss";
+// import "../css/golfstyle.scss";
+// import "../css/reset.scss";
 import "reactjs-popup/dist/index.css";
 
 export default function Login(props) {
@@ -326,9 +326,9 @@ export default function Login(props) {
 // import teeTimeLogo from '../images/tee-time-logo.png'
 
 // //css
-// import '../css/golf-rtl.css'
-// import '../css/golfstyle.css'
-// import '../css/reset.css'
+// import '../css/golf-rtl.scss'
+// import '../css/golfstyle.scss'
+// import '../css/reset.scss'
 // import 'reactjs-popup/dist/index.css';
 
 // import Rules from './Rules'

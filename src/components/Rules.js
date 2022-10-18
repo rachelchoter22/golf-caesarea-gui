@@ -1,6 +1,6 @@
-import '../css/golf-rtl.css'
-import '../css/golfstyle.css'
-import '../css/reset.css'
+import '../css/golf-rtl.scss'
+import '../css/golfstyle.scss'
+import '../css/reset.scss'
 import { Link } from 'react-router-dom';
 import React, { useState, useEffect } from 'react';
 
@@ -98,9 +98,9 @@ export default function Rules(props) {
 // import Header from './Header'
 
 // //css
-// import '../css/golf-rtl.css'
-// import '../css/golfstyle.css'
-// import '../css/reset.css'
+// import '../css/golf-rtl.scss'
+// import '../css/golfstyle.scss'
+// import '../css/reset.scss'
 
 
 // export default function Rules(props) {
